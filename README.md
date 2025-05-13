@@ -13,23 +13,26 @@ I am a **Bioinformatics professional** with expertise in computational biology, 
 
 ### **Biotherapeutic Engineering Co-op**  
 📍 *Takeda Pharmaceutical Company, Cambridge, MA* (Jan 2024 - June 2024)  
-- Conducted sequence and structural analysis of **antibodies** using industry-standard tools.  
-- Developed **machine learning models** (e.g., AntiBERTy) for antibody affinity maturation.  
+- Engineered NGS pipelines in a high-performance computing (HPC) environment for large-scale antibody sequence
+analysis (~3 million reads), applying Python and R for data processing and QC.  
+- Performed structure-activity analyses using MOE/PyMOL, refining hits based on binding affinity and leading to faster
+experimental validation cycles 
 - Automated **liability predictions**, reducing analysis time by 30%.  
 - Designed antibodies using **homology modeling** and **structural optimization**.  
-- Provided **data-driven insights** to support antibody engineering strategies.  
+- Collaborated on a manuscript submission after analyzing 3 million antibody sequences, identifying key developability
+trends and patterns.  
 
 ### **Research Intern**  
 📍 *BioLim Centre for Science and Technology, India* (Nov 2021 - Dec 2021)  
-- Investigated **drug delivery systems** for targeted cancer therapy.  
+- Conducted research on novel drug delivery systems for targeted cancer therapy.  
 - Explored **affordable early cancer detection** methods.  
-- Analyzed biomaterial effectiveness for **drug delivery applications**.  
+- Analyzed the effectiveness of ~ 5 biomaterials for drug delivery applications.  
 
 ### **Training Intern**  
 📍 *PharmaGenie Compliance, India* (July 2021 - Sep 2021)  
-- Gained expertise in **Good Manufacturing Practices (GMP)** for pharmaceuticals.  
-- Authored a report on **medical device regulations**.  
-- Assisted in reviewing **pharmaceutical compliance protocols**.  
+- Gained expertise in Good Manufacturing Practices (GMP) for pharmaceutical industries through 40+ hours of training.  
+- Delivered a comprehensive 40-page report detailing medical device regulations across three key global markets.  
+- Facilitated in reviewing compliance protocols for pharmaceutical quality assurance.  
 
 ---
 
